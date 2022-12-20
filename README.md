@@ -1,2 +1,2 @@
-# perls-group.gihub.io
+# perls-group.github.io
 Website for the PERLS group
