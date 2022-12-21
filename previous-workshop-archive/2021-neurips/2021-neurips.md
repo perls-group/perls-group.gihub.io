@@ -265,4 +265,4 @@ You can download a bibtex file for all accepted papers <a href="assets\bib\perls
 
 <h1 id="schedule">Schedule</h1>
 
-<img src="assets/img/schedule.png" style="width: 100%;">
+<img src="assets/img/schedule.png" style="width: 100%;" >
